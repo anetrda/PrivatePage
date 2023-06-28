@@ -1,2 +1,4 @@
 # PrivatePage
-Private Page
+
+This is just a Private Page
+
